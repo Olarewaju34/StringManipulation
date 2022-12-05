@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\codemoney\bin\Debug\net6.0\codemoney.exe
+C:\Users\HP\Desktop\codemoney\bin\Debug\net6.0\codemoney.deps.json
+C:\Users\HP\Desktop\codemoney\bin\Debug\net6.0\codemoney.runtimeconfig.json
+C:\Users\HP\Desktop\codemoney\bin\Debug\net6.0\codemoney.dll
+C:\Users\HP\Desktop\codemoney\bin\Debug\net6.0\codemoney.pdb
+C:\Users\HP\Desktop\codemoney\obj\Debug\net6.0\codemoney.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\codemoney\obj\Debug\net6.0\codemoney.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\codemoney\obj\Debug\net6.0\codemoney.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\codemoney\obj\Debug\net6.0\codemoney.AssemblyInfo.cs
+C:\Users\HP\Desktop\codemoney\obj\Debug\net6.0\codemoney.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\codemoney\obj\Debug\net6.0\codemoney.dll
+C:\Users\HP\Desktop\codemoney\obj\Debug\net6.0\refint\codemoney.dll
+C:\Users\HP\Desktop\codemoney\obj\Debug\net6.0\codemoney.pdb
+C:\Users\HP\Desktop\codemoney\obj\Debug\net6.0\codemoney.genruntimeconfig.cache
+C:\Users\HP\Desktop\codemoney\obj\Debug\net6.0\ref\codemoney.dll
