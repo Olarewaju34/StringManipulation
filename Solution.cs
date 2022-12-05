@@ -7,7 +7,7 @@ namespace codemoney
 {
     public class Solution
     {
-        public static string Encoded(string text)
+        private static string Encoded(string text)
         {
             string FirstSub = text.Substring(0, (text.Length / 2));
             string SecondSub = text.Substring((text.Length / 2));
