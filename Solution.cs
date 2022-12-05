@@ -33,18 +33,18 @@ namespace codemoney
             string letters = Encoded(concat);
             string ThirdSub = letters.Substring(0, (letters.Length / 2));
             string FourthSub = letters.Substring((letters.Length/2));
-            string newc = "";
-            string newd = "";
+            string NewC = "";
+            string NewD = "";
             for (int i = 0; i < FourthSub.Length; i++)
             {
                 if (i % 2 != 0)
                 {
-                    newd += FourthSub[i] + "" + ThirdSub[i];
+                    NewD += FourthSub[i] + "" + ThirdSub[i];
                     continue;
                 }
-                newc += FourthSub[i] + "" + ThirdSub[i];
+                NewC += FourthSub[i] + "" + ThirdSub[i];
             }
-            string concatination = string.Concat(newc, newd);
+            string concatination = string.Concat(NewC, NewD);
             Console.WriteLine(concatination);
         }
 
